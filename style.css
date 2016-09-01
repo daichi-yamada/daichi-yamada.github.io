@@ -1,0 +1,23 @@
+h1.mokuzi{
+    font-size:300%;
+}
+strong#name{
+    text-decoration: underline;
+}
+/*コメント*/
+nav ul li{
+    display:inline-block;
+    margin:0 20px;
+}
+nav{
+    text-align:center;
+}
+
+nav ul li a{
+    text-decoration:none;
+}
+
+*{
+    margin:0;
+    padding:0;
+}
