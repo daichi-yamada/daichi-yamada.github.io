@@ -21,3 +21,22 @@ nav ul li a{
     margin:0;
     padding:0;
 }
+
+table, td, th {
+    border: 1px solid gray;
+}
+
+footer a {
+    display: inline-block;
+}
+
+#imag1 {
+    width: 300px;
+    position: relative;
+    top: -32px;
+}
+
+#imag2 {
+    width: 300px;
+    margin-left: 15px;
+}
